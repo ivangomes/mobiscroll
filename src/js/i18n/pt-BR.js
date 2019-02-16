@@ -42,7 +42,7 @@ mobiscroll.i18n['pt-BR'] = {
     eventsText: 'Eventos',
     moreEventsText: 'Mais {count}',
     // Daterange component
-    fromText: 'In&iacute;cio',
+    fromText: 'Início',
     toText: 'Fim',
     // Measurement components
     wholeText: 'Inteiro',
