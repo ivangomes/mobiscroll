@@ -42,7 +42,7 @@ mobiscroll.i18n['pt-BR'] = {
     eventsText: 'Eventos',
     moreEventsText: 'Mais {count}',
     // Daterange component
-    fromText: 'In&iacute;cio',
+    fromText: 'Início',
     toText: 'Fim',
     // Measurement components
     wholeText: 'Inteiro',
@@ -50,7 +50,7 @@ mobiscroll.i18n['pt-BR'] = {
     unitText: 'Unidade',
     // Time / Timespan component
     labels: ['Anos', 'Meses', 'Dias', 'Horas', 'Minutos', 'Segundos', ''],
-    labelsShort: ['Ano', 'M&ecirc;s', 'Dia', 'Hora', 'Min', 'Seg', ''],
+    labelsShort: ['Ano', 'Mês', 'Dia', 'Hora', 'Min', 'Seg', ''],
     // Timer component
     startText: 'Começar',
     stopText: 'Pare',
